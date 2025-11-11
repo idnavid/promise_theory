@@ -1,6 +1,6 @@
-# promise_theory
+# Promise Theory
 
-Welcome to the `promise_theory` repository!
+Welcome to the `promise theory` repository!
 
 ## About
 
