@@ -19,4 +19,4 @@ Contributions are welcome! Please check back for updates on issues, pull request
 
 ---
 
-For more information about the project and the author, visit the [repository homepage](https://github.com/idnavid/promise_theory).
+For more information about the project and the author, visit the Promise Theory book [home page](https://markburgess.org/promises.html).
