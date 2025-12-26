@@ -6,7 +6,7 @@ Welcome to the `promise theory` repository!
 
 This repository focuses on the concept of "Promise Theory". 
 
-[Promise Theory](https://en.wikipedia.org/wiki/Promise_Theory) is a perspective on thinking about the interactions and dependencies between autonomous components in a system. 
+[Promise Theory](https://en.wikipedia.org/wiki/Promise_Theory) is a perspective on thinking about the interactions and dependencies between autonomous components in a system. Instead of the traditional view of command-response towards software systems, promise theory introduces of promises as a central tool in a new analytical framework when describing software architectures. 
 This topic is increasingly of interest to practitioners in the field of Machine Learning and AI as it marries DevOps formalisms with agentic AI workflows. 
 
 Intended audience: 
